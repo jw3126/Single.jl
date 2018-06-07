@@ -1,4 +1,5 @@
 # Single
+![](https://travis-ci.org/jw3126/Single.jl.svg?branch=master)
 
 Return the single element of a container. Stolen from [here](https://github.com/JuliaLang/julia/pull/25078).
 
